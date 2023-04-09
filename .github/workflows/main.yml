@@ -62,4 +62,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: anf1f/infra:latest
+          tags: anf16f/infra:latest
